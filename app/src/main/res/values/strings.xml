@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">p03 Kotlin</string>
+    <string name="Usuario">bryan</string>
+    <string name="Contraseña">123456</string>
+    <string name="nombreUsuario">Bryan Gonzalez</string>
+    <string name="num1">Numero 1</string>
+    <string name="num2">Numero 2</string>
+    <string name="res">Resultado</string>
+</resources>
